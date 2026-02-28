@@ -3,7 +3,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-success)](https://www.minecraft.net)
 [![Forge](https://img.shields.io/badge/Forge-52.1.3-orange)](https://files.minecraftforge.net)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Modrinth](https://img.shields.io/modrinth/dt/НАЗВАНИЕ-ПРОЕКТА?label=Modrinth&logo=modrinth)](https://modrinth.com/mod/fighter-mod)
+[![Modrinth](https://img.shields.io/modrinth/dt/fighter-mod?label=Modrinth&logo=modrinth)](https://modrinth.com/mod/fighter-mod)
 
 ## 📋 Описание
 Fighter Mod добавляет в игру магические амулеты и оружие, которые усиливают способности игрока. Мод разработан для Minecraft Forge 1.21.1.
@@ -139,6 +139,7 @@ gradlew runClient
 
 
 Этот проект распространяется под лицензией MIT. Подробнее в файле LICENSE.
+
 
 
 
