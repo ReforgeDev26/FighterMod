@@ -1,0 +1,23 @@
+{
+  "item.fightermod.critical_amulet": "Critical Amulet",
+  "item.fightermod.critical_sword": "Critical Sword",
+  "item.fightermod.speed_amulet": "Speed Amulet",
+  "itemGroup.fightermod": "Fighter Mod",
+
+  "item.fightermod.critical_amulet.tooltip1": "Critical Enhancement Amulet",
+  "item.fightermod.critical_amulet.tooltip2": "In offhand:",
+  "item.fightermod.critical_amulet.tooltip3": "×2 damage + crit effect",
+  "item.fightermod.critical_amulet.tooltip4": "-2 hunger per hit",
+  "item.fightermod.critical_amulet.tooltip5": "Durability: ",
+
+  "item.fightermod.critical_sword.tooltip1": "Critical Enhancement Sword",
+  "item.fightermod.critical_sword.tooltip2": "In offhand Critical Amulet:",
+  "item.fightermod.critical_sword.tooltip3": "×2 damage + crit effect",
+  "item.fightermod.critical_sword.tooltip4": "Durability: ",
+
+  "item.fightermod.speed_amulet.tooltip1": "Speed Enhancement Amulet",
+  "item.fightermod.speed_amulet.tooltip2": "In offhand:",
+  "item.fightermod.speed_amulet.tooltip3": "×2 speed",
+  "item.fightermod.speed_amulet.tooltip4": "-2 hunger per effect action",
+  "item.fightermod.speed_amulet.tooltip5": "Durability: "
+}

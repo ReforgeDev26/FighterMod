@@ -1,0 +1,23 @@
+{
+  "item.fightermod.critical_amulet": "Критический Амулет",
+  "item.fightermod.critical_sword": "Критический Меч",
+  "item.fightermod.speed_amulet": "Амулет Скорости",
+  "itemGroup.fightermod": "Боевой мод",
+
+  "item.fightermod.critical_amulet.tooltip1": "Древний амулет критического урона",
+  "item.fightermod.critical_amulet.tooltip2": "В левой руке:",
+  "item.fightermod.critical_amulet.tooltip3": "×2 урона + эффект крита",
+  "item.fightermod.critical_amulet.tooltip4": "-2 голода за удар",
+  "item.fightermod.critical_amulet.tooltip5": "Прочность: ",
+
+  "item.fightermod.critical_sword.tooltip1": "Меч критического урона",
+  "item.fightermod.critical_sword.tooltip2": "Пока экипирован амулет критического урона:",
+  "item.fightermod.critical_sword.tooltip3": "×2 урона + эффект крита",
+  "item.fightermod.critical_sword.tooltip4": "Прочность: ",
+
+  "item.fightermod.speed_amulet.tooltip1": "Древний амулет скорости",
+  "item.fightermod.speed_amulet.tooltip2": "В левой руке:",
+  "item.fightermod.speed_amulet.tooltip3": "×2 скорости",
+  "item.fightermod.speed_amulet.tooltip4": "-2 голода за эффект",
+  "item.fightermod.speed_amulet.tooltip5": "Прочность: "
+}
