@@ -56,11 +56,11 @@ R = Редстоун (Redstone)
 
 ### Амулет скорости
 ```
-FFF
-FRF
-FFF
+GGG
+GRG
+GGG
 ```
-F = Перо (Feather)
+G = Золотой слиток (Gold Ingot)
 R = Редстоун (Redstone)
 
 
@@ -139,6 +139,7 @@ gradlew runClient
 
 
 Этот проект распространяется под лицензией MIT. Подробнее в файле LICENSE.
+
 
 
 
