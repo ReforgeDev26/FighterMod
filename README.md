@@ -81,7 +81,7 @@ S = Палка (Stick)
 
 ### Инструкция:
 1. Скачайте и установите [Minecraft Forge 1.21.1](https://files.minecraftforge.net)
-2. Скачайте последнюю версию мода из [релизов](https://github.com/FighterMod/releases)
+2. Скачайте последнюю версию мода из [релизов](https://github.com/ReforgeDev26/FighterMod/releases)
 3. Поместите файл `.jar` в папку `mods` игры
     - Windows: `%appdata%/.minecraft/mods`
     - Linux: `~/.minecraft/mods`
@@ -94,7 +94,7 @@ S = Палка (Stick)
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/FighterMod/fightermod.git
+git clone https://github.com/ReforgeDev26/FighterMod/fightermod.git
 cd fightermod
 ```
 Настройте среду разработки:
@@ -138,3 +138,4 @@ gradlew runClient
 
 
 Этот проект распространяется под лицензией MIT. Подробнее в файле LICENSE.
+
